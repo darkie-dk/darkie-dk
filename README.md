@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello there 
+  Atualmente estou trabalhando como freelancer Fullstack criando aplicações úteis e práticas. E tenho focado em entregar soluções que atendam às necessidades do projeto. <br>
+  Se procura alguém dedicado e direto, posso ajudar a tirar sua ideia do papel.
 <!--
 **darkie-dk/darkie-dk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
