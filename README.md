@@ -1,4 +1,4 @@
-## Hello there 
+## Hello there!
   Atualmente estou trabalhando como freelancer Fullstack criando aplicações úteis e práticas. Tenho focado em entregar soluções que atendam às necessidades do projeto da melhor forma. <br>
   Se procura alguém dedicado e direto, posso contribuir com o negócio!
 <!--
