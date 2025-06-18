@@ -1,6 +1,9 @@
 ## Hello there!
-  Atualmente estou trabalhando como freelancer Fullstack criando aplicações úteis e práticas. Tenho focado em entregar soluções que atendam às necessidades do projeto da melhor forma. <br>
-  Se procura alguém dedicado e direto, posso contribuir com o negócio!
+  Atualmente trabalho como desenvolvedor backend com foco em .NET. Meu foco é construir projetos legais aplicando boas práticas como Clean Architecture, DDD e injeção de dependência, e buscando sempre entender o porquê das coisas e não só aplicar por aplicar para me tornar um ótimo engenheiro de software.
+
+Já atuei como freelancer fullstack, mas hoje me concentro em construir APIs bem estruturadas, que façam sentido para o projeto e resolvam problemas reais.
+
+Se procura alguém dedicado, direto e que realmente se importa com o projeto, posso ajudar, entra em contato comigo: keventavares.kdgt@gmail.com
 <!--
 **darkie-dk/darkie-dk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
